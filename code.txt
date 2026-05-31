@@ -1,0 +1,5 @@
+ramu = input("Enter the amount:")
+if ramu > 100:
+    print("ramu get profit")
+else:
+    print("ramu get loss")
